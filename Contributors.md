@@ -270,7 +270,7 @@ Matthew Burgos
 - [Vijay Modi](https://github.com/VijayM0di)
 - [Stephen K](https://github.com/kotiang54)
 - [Caio Dias](https://github.com/devCaiodias)
-- [Calvin Cathey](...)
+- [Calvin Cathey]
 - [Bedelya] (https://github.com/Dazzlebutterfly)
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
 - [north-calm] (https://github.com/north-calm)
@@ -403,7 +403,6 @@ Matthew Burgos
 - [Leahylin](https://github.com/Leahylin0317)
 - [Tom] (https://github.com/tom-mai-wichtig)
 - [Mike Mertens](https://github.com/mmertens-empirical)
--  where am i????
 - [Vandana Kerketta](https://github.com/Vandy02)
 - [Matt Seal] (https://github.com/matt-seal)
 - [CHITRANSH PRASANNA](https://github.com/Chitransh1011)
@@ -471,7 +470,7 @@ Matthew Burgos
 - [Ivo-velev](https://github.com/Ivo-velev)
 - [INPATHTAMILAN](https://github.com/tamilan3)
 - [Santiago Alcala] (https://github.com/santiagoyeal)
-- [ Jayanth](https;//github.com/18jayanth)
+- [Jayanth](https://github.com/18jayanth)
 - [Varsha Gajula](https://github.com/varsha359)
 - [ashykng](https://github.com/ashykng)
 - [Hans Kalders](https://github.com/hansk112)
@@ -711,7 +710,7 @@ Matthew Burgos
 - [Abhishek Kumar](https://github.com/abhishekkr8399)
 - [Aryan Joshi] (https://github.com/AryanJoshi2108)
 - [Fco Birr](https://github.com/FcoBirr)
-- [Vedant Garg][https://github.com/VedantG479]
+- [Vedant Garg](https://github.com/VedantG479)
 - [Rajesh Khanna] (https://github.com/Rajeshkris2)
 - [joserata] (https://github.com/joserata/first-contributions.git)
 - [Sanidhya Soni](https://github.com/sonisanidhya)
@@ -1025,7 +1024,7 @@ Matthew Burgos
 - [deep9x](https://github.com/deep9x)
 - [PhamNguyenDangHuy](https://github.com/pndh)
 - [Kimjunseoo](https://github.com/kimjunseoo)
-- [BinhTran2307](my first contribution)
+- [BinhTran2307]
 - [smandadhi9](https://github.com/smandadhi9)
 - [Mateus Cruz](https://github.com/Mdacruzrego)
 - [Umang Agarwal](https://github.com/UmangAgarwal257)
@@ -1368,7 +1367,7 @@ Matthew Burgos
 - [Claudio Jara](https://github.com/claudiojara)
   Leahylin
 - [Peter Hilbert](https://github.com/pehilbert)
-- [.kim](https//github.com/kim8584)
+- [.kim](https://github.com/kim8584)
 - [Yeressil Taupiyk](https://github.com/BalmundSM)
 - [Somssi Pathania](https://github.com/SOMSSI2110)
 - [Gabriel Fernandes](https://github.com/gabrielfernandeswebdev)
@@ -1606,19 +1605,19 @@ Matthew Burgos
 - [Nikolay Gusev](https://github.com/TankistPro)
 - [Abhi Patil](https://github.com/Abhisucks)
 - [Xin Xiao](https://github.com/ThetNaingLin7)
-- [Onyango Jerry](No link sorry)
-- [Haonan Lu](No link by now)
+- [Onyango Jerry]
+- [Haonan Lu]
 - [Ambrose Matata](https://github.com/Masaku12)
 - [Trevor Carmack](http://github.com/tscarmack)
 - [Minseo] (https://github.com/Gimminse)
 - [ruvvan](https://github.com/ruvvan)
-- [Jayavardhan gorlamandala](No link sorry)
+- [Jayavardhan gorlamandala]
 - [Ashish Kumar](https://github.com/akdevv)
 - [Julius Oyovwikigho](https://github.com/ojst60)
 - [thenil3sh](https://github.com/thenil3sh)
 - [Mohammed Siddiq Sawani](https://github.com/siddiksawani)
 - [Mohammed Sidiq](https://github.com/MohdSiddiq12)
-- [BlackSmithOfFire](I won't put my link/Sorry!But thanks)
+- [BlackSmithOfFire]
 - [Ethri](https://github.com/ethrii)
 - [Nam Anh Le](https://github.com/namanhle941998)
 - [Quan02](https://github.com/Quan02)
@@ -1657,7 +1656,7 @@ Matthew Burgos
 - [Gokularaju](https://github.com/gokul78590)
 - [Oliver](https://github.com/oliverg13)
 - [Phillip Alter](https://github.com/phillip-alter)
-- [Banjo Patrick](https:github.com/Super-Savvy)
+- [Banjo Patrick](https://github.com/Super-Savvy)
 - [Emmanuel Doji](https://github.com/devopsnormad)
 - [Collin Bugash](https://github.com/CollinBugash)
 - [Shawluck](https://github.com/Shawluck/)
@@ -1690,7 +1689,7 @@ Matthew Burgos
 - [Srishti Agarwal](https://github.com/srishtiagarwall)
 - [Rahul Rajput](https://github.com/r2hu1)
 - [Levi] (https://github.com/LeviDantas01)
-- [Lovepreet](No link by now)
+- [Lovepreet]
 - [Rajan Sharma](https://github.com/Immortal-codes)
 - [Nirupam Pal](https://github.com/nirupampal)
 - [Samant Rathod](https://github.com/samfip1)
