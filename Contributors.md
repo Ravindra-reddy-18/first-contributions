@@ -1,5 +1,7 @@
  # Contributors
+ - [dreamaker69](https://github.com/dreamaker69)
 - [TopHat327](https://github.com/TopHat327)
+- [Jonathan Kila](https://github.com/Excelsior2021)
 - [siddy09re](https://github.com/siddy09re)
 - [Ajit Sargar](https://github.com/sargar-ajit)
 - [Max Ma](https://github.com/maxu198668)
@@ -62,6 +64,7 @@ e-Jo
 - [Pavithra Nelluri](https://github.com/PavithraNelluri)
 - [Samuel Calixto](https://github.com/samuelcalixtodev)
 - [Heeyoun Lim](https://github.com/ready-oun)
+- [Nogunix](https://github.com/nogunix)
 - [Aldo Rodriguez](https://github.com/aldorodz)
 - [Josh Greenberg](https://github.com/savoi)
 - [Dawxay](https://github.com/Dawxay)
@@ -534,6 +537,7 @@ Matthew Burgos
 - [Gabor Pusztai](https://github.com/GaborPusztai)
 - [Ivan Torres](https://github.com/Ivan-Torres1)
 - [Pratik](https://github.com/pratik2374)
+-Kunal
 - Sudhanshu
 - [Fwank](https://github.com/yo-frank)
 - [Piyush Kumar Agarwal](https://github.com/piyush-kumar-agarwal1)
@@ -664,6 +668,7 @@ Matthew Burgos
 - [nokesh](https://github.com/Nokesh11)
 - [tr33k](https://github.com/tr33k)
 - [Vicky Besra](https://github.com/vickybesra)
+- [Nick K] (https://github.com/Nick2191)
 - [Mike Mertens](https://github.com/mmert9008)
 - [36borderless] (https://github.com/36borderless)
 - [Rudra] (github.com/ruudra03)
@@ -2162,6 +2167,7 @@ Matthew Burgos
 - BestStatham8(https://github.com/BestStatham8)
 - [PedroOliveiraWish](https://github.com/PedroOliveiraWish)
 - [pashkov256](https://github.com/pashkov256)
+- Jule Sall
 - Ga-eun Lee 💙
 - Tche
 - [2333](https://github.com/2333xxxx)
@@ -2214,3 +2220,7 @@ Matthew Burgos
 - [Anton Avdeev] (https://github.com/Extend777)
 - [Dmytro Petruniv] (https://github.com/dmyrkoo)
 - [Pacome Fromager] (https://github.com/Teyzer)
+- [utopia] (https://github.com/Utopia-a)
+- [Kirankumarvel] - (https://github.com/Kirankumarvel/)
+- [vëhxï] - (https://github.com/vehxi)
+- [jeevan] - (https://github.com/Jeevansai-76/)
